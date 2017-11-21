@@ -8,6 +8,8 @@ Vous endossez le rôle de Scrum Master ? Vous coachez une nouvelle équipe ? Voi
 
 ## Première fois Scrum Master
 
+[Liste](https://lorabv.github.io/awesome-agile-software-development/)
+
 You can use the [editor on GitHub](https://github.com/Zenigata/kit-scrum-master/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 [Webographie par APR](https://agilepainrelief.com/scrummaster-resources-and-references)
